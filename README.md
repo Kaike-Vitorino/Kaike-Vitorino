@@ -1,6 +1,1 @@
-![cover1](https://github.com/Kaike-Vitorino/Kaike-Vitorino/blob/main/_fadc0716-3369-4c5d-a4ef-0107148f5210.jpeg)
-![cover2](https://github.com/Kaike-Vitorino/Kaike-Vitorino/blob/main/_b3b8c818-678e-459d-9ba2-b49f8ddc269a.jpeg)
-![cover3](https://github.com/Kaike-Vitorino/Kaike-Vitorino/blob/main/_70b0234a-da87-439d-bf81-c4361223c626.jpeg)
 ![cover](https://github.com/Kaike-Vitorino/Kaike-Vitorino/blob/main/_3e59fb5c-0698-4415-91ee-6d385acf6307.jpeg)
-![cover5](https://github.com/Kaike-Vitorino/Kaike-Vitorino/blob/main/OIG.jpeg)
-![cover6](https://github.com/Kaike-Vitorino/Kaike-Vitorino/blob/main/OIG.LEKoITvmATs.jpeg)
