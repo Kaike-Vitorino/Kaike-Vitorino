@@ -12,7 +12,7 @@ Olá! 👋 Eu sou um estudante de Ciência da Computação no 3º semestre, apai
 
 ### Junte-se a mim nesta caminhada:
 
-Se você compartilha o entusiasmo pelo mundo do código, venha fazer parte desta jornada! Vamos ultrapassar os nossos limites do que conseguimos aprender no desenvolvimento de software!🚀
+Se você compartilha o entusiasmo pelo mundo do código, venha fazer parte desta jornada! Vamos ultrapassar os nossos limites do que conseguimos fazer no desenvolvimento de software e vamos pensar em soluções criativas e inovadoras para cada problema que aparecer pelo nosso caminho!🚀
 
 **Tecnologias**
 
