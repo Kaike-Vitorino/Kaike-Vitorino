@@ -29,5 +29,4 @@ Se você compartilha o entusiasmo pelo mundo do código, venha fazer parte desta
 <h3>&nbsp;Onde me encontrar: </h3>
 
 [![Linkedin: KaikeVitorino](https://img.shields.io/badge/-kaikevitorino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaike-vitorino-de-oliveira/)](https://www.linkedin.com/in/kaike-vitorino-de-oliveira/) 
-
 [![Gmail](https://img.shields.io/badge/-kaikevoliveira%40gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaikevoliveira@gmail.com)](mailto:kaikevoliveira@gmail.com)
