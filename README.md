@@ -9,13 +9,10 @@ Olá! 👋 Eu sou um estudante de Ciência da Computação no 3º semestre, apai
 
 - 🚀 Constante aprendizado: Estou sempre buscando melhorar minhas habilidades e explorar novas fronteiras na programação.
 - 💻 Foco em backend: Minha paixão está na construção de sólidas infraestruturas e serviços.
-- 🌐 Contribuições em código aberto: Mantenho projetos abertos para colaboração e consumo.
 
 ### Junte-se a mim nesta caminhada:
 
 Se você compartilha o entusiasmo pelo mundo do código, venha fazer parte desta jornada! Vamos ultrapassar os nossos limites do que conseguimos aprender no desenvolvimento de software!🚀
-
-Você está certo, HTML é uma linguagem de marcação, não uma linguagem de programação. No entanto, muitas vezes é incluída em listas de linguagens ao se referir a tecnologias web. Se preferir, você pode ajustar para "Tecnologias" ou "Tecnologias Web". Aqui está uma versão modificada:
 
 **Tecnologias**
 
