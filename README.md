@@ -20,7 +20,8 @@ Se você compartilha o entusiasmo pelo mundo do código, venha fazer parte desta
 
 **Frameworks**
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white)
+
 
 **Ferramentas de Desenvolvimento**
 
