@@ -3,29 +3,24 @@
 <hr />
 
 ![Cover](https://raw.githubusercontent.com/Kaike-Vitorino/Kaike-Vitorino/main/read.png)
-Olá! 👋 Eu sou um estudante de Ciência da Computação no 3º semestre, apaixonado pelo desenvolvimento backend. Minha jornada atual envolve uma especialização em Python e Golang, duas linguagens que me encantam e desafiam a cada projeto.
+Olá! 👋 Eu sou um estudante de Ciência da Computação no 4º semestre, apaixonado pelo desenvolvimento backend. Minha jornada atual envolve uma capacitação Mainframe utilizando COBOL-VSAM, DB2 e CICS e especialização em Golang e Python.
 
 ### O que esperar por aqui:
 
 - 🚀 Constante aprendizado: Estou sempre buscando melhorar minhas habilidades e explorar novas fronteiras na programação.
 - 💻 Foco em backend: Minha paixão está na construção de sólidas infraestruturas e serviços.
 
-### Junte-se a mim nesta caminhada:
-
-Se você compartilha o entusiasmo pelo mundo do código, venha fazer parte desta jornada! Vamos ultrapassar os nossos limites do que conseguimos fazer no desenvolvimento de software e vamos pensar em soluções criativas e inovadoras para cada problema que aparecer pelo nosso caminho!🚀
-
 **Tecnologias**
 
-![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![Tecnologias Web](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![Tecnologias Web](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge) ![COBOL-VSAM](https://img.shields.io/badge/COBOL--VSAM-02324D?style=for-the-badge) ![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm) ![CICS](https://img.shields.io/badge/CICS-0033A0?style=for-the-badge&logo=ibm) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks**
 
-![Flask](https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white)
-
+![Flask](https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 **Ferramentas de Desenvolvimento**
 
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm) ![GoLand](https://img.shields.io/badge/-GoLand-333333?style=flat&logo=goland) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm) ![GoLand](https://img.shields.io/badge/-GoLand-333333?style=flat&logo=goland) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code) ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
 
 <h3>&nbsp;Onde me encontrar: </h3>
 
