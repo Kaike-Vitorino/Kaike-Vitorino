@@ -1,7 +1,7 @@
 
 ## Welcome to My Coding Universe! 🌌
 
-Hello! 👋 I'm a 5th-semester Computer Science student with a passion for **efficient backend development** and **automation**. I specialize in building robust systems using modern technologies, combining reliability with innovation.
+Hello! 👋 I'm a 6th-semester Computer Science student with a passion for **efficient backend development** and **automation**. I specialize in building robust systems using modern technologies, combining reliability with innovation.
 
 ### What to expect here:
 
