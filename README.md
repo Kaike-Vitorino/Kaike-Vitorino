@@ -1,6 +1,6 @@
 ## 🌎 Bem-vindo ao meu Universo de Desenvolvimento!
 
-Olá! 👋 Sou **Kaíke Vitorino**, desenvolvedor **Full Stack** e estudante do **6º semestre de Ciência da Computação**.  
+Olá! 👋 Sou **Kaíke Vitorino**, desenvolvedor **Full Stack** e estudante do **7º semestre de Ciência da Computação**.  
 Atualmente, atuo na **Getronics**, alocado no **Banco do Brasil**, onde desenvolvo soluções corporativas em larga escala que envolvem **automação, integração de dados, observabilidade e aplicações web**.
 
 ---
