@@ -1,3 +1,5 @@
+<!-- ===== âncora topo (opcional, para garantir que o link funcione) ===== -->
+<a id="topo"></a>
 <!-- ===== Navegação por idioma (cole no topo do README) ===== -->
 [![Português](https://img.shields.io/badge/Português-PT--BR-4CAF50?style=for-the-badge&logo=readme)](#pt-br)
 [![English](https://img.shields.io/badge/English-EN-1976D2?style=for-the-badge&logo=readme)](#en)
@@ -155,6 +157,3 @@ My mission: connect **data, automation, and reliability** to empower mission-cri
 💬 *“Banking systems demand more than code — they demand precision, reliability, and resilience.”*
 
 [Back to top](#topo)
-
-<!-- ===== âncora topo (opcional, para garantir que o link funcione) ===== -->
-<a id="topo"></a>
