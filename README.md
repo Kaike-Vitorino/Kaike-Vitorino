@@ -98,18 +98,39 @@ My mission: connect **data, automation, and reliability** to empower mission-cri
 ### 💻 Main Tech Stack
 
 #### **Backend & Data**
-Python · FastAPI · Flask · Django · Golang · Rust · DB2 · SQL · MongoDB  
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 #### **Frontend**
-Angular · React · Vue.js · HTML5 · CSS3 · JavaScript  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 #### **Infrastructure & Observability**
-Kubernetes · OpenShift · Docker · Jenkins · Grafana · Prometheus · GitLab CI/CD  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat&logo=goland)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![RustRover](https://img.shields.io/badge/RustRover-000000?style=flat&logo=rust)  
 
 ---
 
 ### 🧰 Development Tools
-PyCharm · GoLand · WebStorm · RustRover · VS Code  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat&logo=goland)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![RustRover](https://img.shields.io/badge/RustRover-000000?style=flat&logo=rust)
 
 ---
 
